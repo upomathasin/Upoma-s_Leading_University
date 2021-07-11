@@ -1,0 +1,91 @@
+.Up{
+background-color: #455a64;
+height: 200px;
+width: 100%;
+
+
+}
+.part{
+    float: left;
+margin-left: 50px;
+font-weight: 700;
+color: white;
+
+}
+
+body{
+    font-family: 'Playfair Display', serif;
+}
+
+
+
+.nvpart
+{
+    padding-top: 30px;
+    margin-left: 150px;
+    
+}
+.card{
+    
+    color: white;
+    font-weight: 800;
+
+    box-shadow: 5px 5px 5px 5px gray;
+    padding: 15px;
+    margin-left: 20px;
+}
+
+
+
+#mojib{
+    width: 400px;
+    height: 250px;
+}
+
+.header{
+    display: block;
+    justify-content: left;
+}
+.Up p{
+color: rgb(202, 199, 199);
+}
+
+
+.container{
+    margin-top: 50px;
+    margin-left: 150px;
+   
+
+}
+
+#greenP{
+    background-color: rgb(162, 216, 35);
+    margin-top: 20px;
+    font-weight: 600;
+
+}
+
+
+.op{
+    background-color: #455a64; 
+    height: 60px;
+    width: 100%;
+}
+.link-secondary{
+    color:rgb(165, 161, 161);
+}
+
+
+.link-secondary:hover{
+    color: white;
+    font-weight: 700;
+}
+.navbar{
+    border-top: 1px solid #384850;
+
+}
+.dropdown-menu{
+    background-color: #455a64;
+}
+
+
